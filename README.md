@@ -1,7 +1,9 @@
 # lab2
 
-git branch -d dev //locally
-git push origin --delete dev //remotely
+git branch -d dev 
+//locally
+git push origin --delete dev 
+//remotely
 
 
 //list tag
